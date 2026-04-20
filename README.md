@@ -12,7 +12,8 @@
 
 ⚡ Fun fact : I combine technical AI knowledge with strong communication and leadership experience, including hosting events and managing teams—bridging both technical and people-facing roles.<br>
 
-### 🔬 Research & Projects<br><br> Real-Time Critical Parameter Monitoring for Cabin Space in Submarine Systems (LSTM Model)  <br>  Published research focused on predictive modeling using LSTM for monitoring critical environmental parameters in confined systems.  <br>  https://link.springer.com/chapter/10.1007/978-3-032-15410-1_18<br><br> Driver Drowsiness Detection System  <br>  Machine learning + computer vision system designed to detect driver fatigue in real time.<br><br> React Calculator Web App  <br>  Built using React, JavaScript, and CSS with dynamic user input handling.<br><br> Personal Portfolio Website  <br>  Responsive web application with interactive UI and cross-device compatibility.
+### 🔬 Research & Projects
+Real-Time Critical Parameter Monitoring for Cabin Space in Submarine Systems (LSTM Model)  <br>  Published research focused on predictive modeling using LSTM for monitoring critical environmental parameters in confined systems.  <br>  https://link.springer.com/chapter/10.1007/978-3-032-15410-1_18<br><br> Driver Drowsiness Detection System  <br>  Machine learning + computer vision system designed to detect driver fatigue in real time.<br><br> React Calculator Web App  <br>  Built using React, JavaScript, and CSS with dynamic user input handling.<br><br> Personal Portfolio Website  <br>  Responsive web application with interactive UI and cross-device compatibility.
 
 
 ## 🌐 Socials:
